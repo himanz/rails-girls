@@ -39,7 +39,11 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'foreigner'
 
+# For authentication
 gem 'devise'
+
+# Avatar on site
+gem 'gravtastic'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
